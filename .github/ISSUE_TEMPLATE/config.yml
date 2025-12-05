@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Telegram Community
+    url: https://t.me/selfxyz
+    about: Join our Telegram community for discussions and questions
+  - name: 📖 Documentation
+    url: https://github.com/work-0xj4an/awesome-self
+    about: Review the project documentation
